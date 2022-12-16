@@ -1,0 +1,8 @@
+com.konevdmytro.duzheemptyproject.dodatok-pngs-0 /Users/dmytrokoniev/ProgrammingProjects/DuzheEmptyProject/dodatok/build/generated/res/pngs/debug
+com.konevdmytro.duzheemptyproject.dodatok-resValues-1 /Users/dmytrokoniev/ProgrammingProjects/DuzheEmptyProject/dodatok/build/generated/res/resValues/debug
+com.konevdmytro.duzheemptyproject.dodatok-rs-2 /Users/dmytrokoniev/ProgrammingProjects/DuzheEmptyProject/dodatok/build/generated/res/rs/debug
+com.konevdmytro.duzheemptyproject.dodatok-mergeDebugResources-3 /Users/dmytrokoniev/ProgrammingProjects/DuzheEmptyProject/dodatok/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.konevdmytro.duzheemptyproject.dodatok-mergeDebugResources-4 /Users/dmytrokoniev/ProgrammingProjects/DuzheEmptyProject/dodatok/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.konevdmytro.duzheemptyproject.dodatok-merged_res-5 /Users/dmytrokoniev/ProgrammingProjects/DuzheEmptyProject/dodatok/build/intermediates/merged_res/debug
+com.konevdmytro.duzheemptyproject.dodatok-debug-6 /Users/dmytrokoniev/ProgrammingProjects/DuzheEmptyProject/dodatok/src/debug/res
+com.konevdmytro.duzheemptyproject.dodatok-main-7 /Users/dmytrokoniev/ProgrammingProjects/DuzheEmptyProject/dodatok/src/main/res
